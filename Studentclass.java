@@ -5,7 +5,7 @@ public class Studentclass{
 
         Car toyota = new Car();
         toyota.name = "Innova";
-        toyota.no = 2211;
+        toyota.no = 1111;
 
         // System.out.println(toyota.name);
         // System.out.println(toyota.no);
