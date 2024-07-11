@@ -1,0 +1,17 @@
+#box{
+    background-color:blue;
+    color:white;
+}
+.head{
+    color:red;
+}
+button{
+    background-color: chartreuse;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+}
